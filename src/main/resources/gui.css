@@ -1,0 +1,79 @@
+.top-wall {
+    -fx-border-width: 5px 0 0 0;
+    -fx-border-color: black;
+}
+
+.right-wall {
+    -fx-border-width: 0 5px 0 0;
+    -fx-border-color: black;
+}
+
+.bottom-wall {
+    -fx-border-width: 0 0 5px 0;
+    -fx-border-color: black;
+}
+
+.left-wall {
+    -fx-border-width: 0 0 0 5px;
+    -fx-border-color: black;
+}
+
+.top-right-wall {
+    -fx-border-width: 5px 5px 0 0;
+    -fx-border-color: black;
+}
+
+.top-left-wall {
+    -fx-border-width: 5px 0 0 5px;
+    -fx-border-color: black;
+}
+
+.right-bottom-wall {
+    -fx-border-width: 0 5px 5px 0;
+    -fx-border-color: black;
+}
+
+.left-bottom-wall {
+    -fx-border-width: 0 0 5px 5px;
+    -fx-border-color: black;
+}
+
+.right-left-wall {
+    -fx-border-width: 0 5px 0 5px;
+    -fx-border-color: black;
+}
+
+.top-bottom-wall {
+    -fx-border-width: 5px 0 5px 0;
+    -fx-border-color: black;
+}
+
+.left-bottom-right-wall{
+    -fx-border-width: 0 5px 5px 5px;
+    -fx-border-color: black;
+}
+
+.left-top-right-wall{
+    -fx-border-width: 5px 5px 0 5px;
+    -fx-border-color: black;
+}
+
+.top-right-bottom-wall{
+    -fx-border-width: 5px 5px 5px 0;
+    -fx-border-color: black;
+}
+
+.top-left-bottom-wall{
+    -fx-border-width: 5px 0 5px 5px;
+    -fx-border-color: black;
+}
+
+.ball {
+    -fx-fill: blue;
+}
+
+.goal {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-fill: black;
+}
